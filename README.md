@@ -99,7 +99,7 @@ Started my tech journey with basic _Java programs_, expanding it to **front-end 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> &nbsp;&nbsp;
     </picture>   
-  <a href="http://www.instagram.com/ny1411" target="_blank" rel="noreferrer"> 
+  <a href="http://www.instagram.com/n_y_1411" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
@@ -111,7 +111,7 @@ Started my tech journey with basic _Java programs_, expanding it to **front-end 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> &nbsp;&nbsp;
     </picture>   
-  <a href="https://www.stackoverflow.com/users/n_y_1411" target="_blank" rel="noreferrer"> 
+  <a href="https://www.stackoverflow.com/users/12655079/n-y-1411" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> 
